@@ -47,7 +47,7 @@ To perform SQL-based data analysis on sales, customer, and product data using Mi
    - Used conditional logic with `CASE` and derived columns.
 
 5. **🔍 Data Segmentation (Part 1 & 2).sql**
-   - Grouped customers by revenue bands.
+   - Grouped customers by revenue bands and cost bands.
    - Two scripts handled different segmentation angles.
 
 6. **🧾 Customer Report.sql**
