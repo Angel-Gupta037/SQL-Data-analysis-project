@@ -68,7 +68,6 @@ To perform SQL-based data analysis on sales, customer, and product data using Mi
 
 - This project was guided and may resemble similar public exercises.
 - The data and scripts are intended for **learning purposes**.
-- If a view or object already exists in your database, use `DROP VIEW` before re-running scripts with `CREATE VIEW`.
 
 ---
 
